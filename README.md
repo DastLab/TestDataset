@@ -25,11 +25,23 @@
 | survey | 27 | 1260 | [Kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey) |
 | uce-results-by-school-2011-2015 | 27 | 14383 | [Data.ug](http://catalog.data.ug/dataset/uneb-results-by-school/resource/9678e163-48ca-4ea8-b6bd-bfda5f41a0b3) |
 | fd-reduced-30 | 30 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
+| andromeda | 49 | 36 | [OpenML](https://www.openml.org/d/41549) |
 | divorce | 54 | 170 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#) |
 | sonar          |          60 |      208 | [OpenML](https://www.openml.org/d/40)     |
-| gasensor       |         128 |     4000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/gas+sensor+array+drift+dataset)     |
+| smartphone | 68 | 180 | [OpenML](https://www.openml.org/d/4153) |
+| movement-libras | 91 | 360 | [NetworkRepository](http://networkrepository.com/movement-libras.php) |
+| gassensor       |         128 |     4000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/gas+sensor+array+drift+dataset)     |
 | uniprot | 223 | 1001 | [Uniprot](https://www.uniprot.org/uniref/) |
+| har | 562 | 10299 | [OpenML](https://www.openml.org/d/1478) |
 
+# Datastream 
+The data stream extracted from over 200 sensors available on the AQICN portal and next analyzed by the COD3 algorithm.
+
+|        Dataset | Columns [#] | Rows [#] | Source | Start Time | End Time |
+|----------------|------------:|---------:|-------:|-----------:|---------:|
+| Italysensors1  | 13 | 1160 | [AQICN Portal](https://aqicn.org/)  | 2020/06/01 09:09 | 2020/06/02 05:36 |
+| Italysensors2  | 13 | 1236 | [AQICN Portal](https://aqicn.org/)  | 2020/06/02 13:36 | 2020/06/03 09:36 |
+| Italysensors3  | 13 | 1369 | [AQICN Portal](https://aqicn.org/)  | 2020/06/03 09:44 | 2020/06/04 07:01 |
 
 
 
