@@ -33,6 +33,7 @@
 | ncvoter        |          19 |     1001 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
 | lymphography   |          20 |      148 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Lymphography)     |
 | hepatitis      |          20 |      155 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Hepatitis)     |
+| spectheart      |          23 |      267 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/spect+heart)   |
 | parkinson      |          24 |      195 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Parkinsons)     |
 | horse colic | 27 | 300 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Horse+Colic) |
 | survey | 27 | 1260 | [Kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey) |
