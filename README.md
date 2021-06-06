@@ -28,7 +28,7 @@
 | australian   |          14 |    690 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval))     |
 | adult          |          14 |    32562 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/adult)     |
 | fd-reduced-15  |          15 |   250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
-| Tax  |          15 |   200000 |      |
+| tax  |          15 |   200000 |      |
 | letter recognition | 17 | 20000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition) |
 | ncvoter        |          19 |     1001 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
 | lymphography   |          20 |      148 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Lymphography)     |
@@ -42,6 +42,7 @@
 | divorce | 54 | 170 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#) |
 | sonar          |          60 |      208 | [OpenML](https://www.openml.org/d/40)     |
 | smartphone | 68 | 180 | [OpenML](https://www.openml.org/d/4153) |
+| coil2000 | 85 | 9822 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Insurance+Company+Benchmark+(COIL+2000)) |
 | movement-libras | 91 | 360 | [NetworkRepository](http://networkrepository.com/movement-libras.php) |
 | gassensor       |         128 |     4000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/gas+sensor+array+drift+dataset)     |
 | uniprot | 223 | 1001 | [Uniprot](https://www.uniprot.org/uniref/) |
