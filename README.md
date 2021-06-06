@@ -38,6 +38,7 @@
 | survey | 27 | 1260 | [Kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey) |
 | uce-results-by-school-2011-2015 | 27 | 14383 | [Data.ug](http://catalog.data.ug/dataset/uneb-results-by-school/resource/9678e163-48ca-4ea8-b6bd-bfda5f41a0b3) |
 | fd-reduced-30 | 30 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
+| ionosphere | 34 | 351 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/ionosphere) |
 | andromeda | 49 | 36 | [OpenML](https://www.openml.org/d/41549) |
 | divorce | 54 | 170 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#) |
 | sonar          |          60 |      208 | [OpenML](https://www.openml.org/d/40)     |
