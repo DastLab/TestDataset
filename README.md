@@ -27,7 +27,6 @@
 | tsa-claims     |          13 |    25023 | [Kaggle](https://www.kaggle.com/terminal-security-agency/tsa-claims-database)     |
 | australian   |          14 |    690 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval))     |
 | adult          |          14 |    32562 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/adult)     |
-| fd-reduced-15  |          15 |   250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
 | tax  |          15 |   200000 |      |
 | fd-reduced-15 | 15 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
 | letter recognition | 17 | 20000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition) |
