@@ -28,7 +28,8 @@
 | australian   |          14 |    690 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval))     |
 | adult          |          14 |    32562 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/adult)     |
 | fd-reduced-15  |          15 |   250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
-| Tax  |          15 |   200000 |      |
+| tax  |          15 |   200000 |      |
+| fd-reduced-15 | 15 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
 | letter recognition | 17 | 20000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition) |
 | ncvoter        |          19 |     1001 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
 | lymphography   |          20 |      148 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Lymphography)     |
