@@ -29,10 +29,7 @@
 | adult          |          14 |    32562 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/adult)     |
 | fd-reduced-15  |          15 |   250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
 | tax  |          15 |   200000 |      |
-<<<<<<< HEAD
 | fd-reduced-15 | 15 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
-=======
->>>>>>> ce8893e2f2f7b15b19a96a13be40148a1aa01392
 | letter recognition | 17 | 20000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition) |
 | ncvoter        |          19 |     1001 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
 | lymphography   |          20 |      148 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Lymphography)     |
