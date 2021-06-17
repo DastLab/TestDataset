@@ -29,20 +29,26 @@
 | adult          |          14 |    32562 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/adult)     |
 | fd-reduced-15  |          15 |   250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
 | tax  |          15 |   200000 |      |
+<<<<<<< HEAD
 | fd-reduced-15 | 15 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
+=======
+>>>>>>> ce8893e2f2f7b15b19a96a13be40148a1aa01392
 | letter recognition | 17 | 20000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition) |
 | ncvoter        |          19 |     1001 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
 | lymphography   |          20 |      148 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Lymphography)     |
 | hepatitis      |          20 |      155 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Hepatitis)     |
+| spectheart      |          23 |      267 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/spect+heart)   |
 | parkinson      |          24 |      195 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Parkinsons)     |
 | horse colic | 27 | 300 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Horse+Colic) |
 | survey | 27 | 1260 | [Kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey) |
 | uce-results-by-school-2011-2015 | 27 | 14383 | [Data.ug](http://catalog.data.ug/dataset/uneb-results-by-school/resource/9678e163-48ca-4ea8-b6bd-bfda5f41a0b3) |
 | fd-reduced-30 | 30 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
-| andromeda | 49 | 36 | [OpenML](https://www.openml.org/d/41549) |
+| ionosphere | 34 | 351 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/ionosphere) |
+| andromeda | 36 | 49 | [OpenML](https://www.openml.org/d/41549) |
 | divorce | 54 | 170 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#) |
 | sonar          |          60 |      208 | [OpenML](https://www.openml.org/d/40)     |
 | smartphone | 68 | 180 | [OpenML](https://www.openml.org/d/4153) |
+| coil2000 | 85 | 9822 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Insurance+Company+Benchmark+(COIL+2000)) |
 | movement-libras | 91 | 360 | [NetworkRepository](http://networkrepository.com/movement-libras.php) |
 | gassensor       |         128 |     4000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/gas+sensor+array+drift+dataset)     |
 | uniprot | 223 | 1001 | [Uniprot](https://www.uniprot.org/uniref/) |
