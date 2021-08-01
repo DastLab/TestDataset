@@ -31,7 +31,7 @@
 | fd-reduced-15 | 15 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
 | letter recognition | 17 | 20000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition) |
 | ncvoter        |          19 |     1001 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
-| lymphography   |          20 |      148 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Lymphography)     |
+| lymphography   |          19 |      148 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Lymphography)     |
 | hepatitis      |          20 |      155 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Hepatitis)     |
 | spectheart      |          23 |      267 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/spect+heart)   |
 | parkinson      |          24 |      195 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Parkinsons)     |
