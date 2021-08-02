@@ -42,6 +42,7 @@
 | ionosphere | 34 | 351 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/ionosphere) |
 | andromeda | 36 | 49 | [OpenML](https://www.openml.org/d/41549) |
 | MoCap Postures | 38 | 78095 | [UCI](https://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures) |
+| QSAR biodegradation | 41 | 1055 | [UCI](https://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation) |
 | divorce | 54 | 170 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#) |
 | sonar          |          60 |      208 | [OpenML](https://www.openml.org/d/40)     |
 | smartphone | 68 | 180 | [OpenML](https://www.openml.org/d/4153) |
