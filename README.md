@@ -26,10 +26,11 @@
 | echocardiogram |          13 |      132 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/echocardiogram)     |
 | tsa-claims     |          13 |    25023 | [Kaggle](https://www.kaggle.com/terminal-security-agency/tsa-claims-database)     |
 | australian   |          14 |    690 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval))     |
-| adult          |          14 |    32562 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/adult)     |
+| adult          |          15 |    32562 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/adult)     |
 | tax  |          15 |   200000 |      |
 | fd-reduced-15 | 15 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
 | letter recognition | 17 | 20000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition) |
+| sgemm-gpu      |          18 |      241600 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance)     |
 | ncvoter        |          19 |     1001 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html)     |
 | lymphography   |          19 |      148 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Lymphography)     |
 | hepatitis      |          20 |      155 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Hepatitis)     |
@@ -41,6 +42,7 @@
 | fd-reduced-30 | 30 | 250000 | [HPI](https://hpi.de/naumann/projects/repeatability/data-profiling/fds.html) |
 | ionosphere | 34 | 351 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/ionosphere) |
 | andromeda | 36 | 49 | [OpenML](https://www.openml.org/d/41549) |
+| flights | 38 | 1000 | []() |
 | MoCap Postures | 38 | 78095 | [UCI](https://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures) |
 | QSAR biodegradation | 41 | 1055 | [UCI](https://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation) |
 | divorce | 54 | 170 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#) |
@@ -50,6 +52,7 @@
 | movement-libras | 91 | 360 | [NetworkRepository](http://networkrepository.com/movement-libras.php) |
 | gassensor       |         128 |     4000 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/gas+sensor+array+drift+dataset)     |
 | uniprot | 223 | 1001 | [Uniprot](https://www.uniprot.org/uniref/) |
+| tuandromd | 242 | 4,465 | [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/TUANDROMD+%28+Tezpur+University+Android+Malware+Dataset%29) |
 | har | 562 | 10299 | [OpenML](https://www.openml.org/d/1478) |
 
 # Datastream 
